@@ -37,20 +37,3 @@
 | Vite | Сборка и dev-сервер |
 | Tailwind CSS v4 | Стилизация |
 
-## Запуск проекта локально
-
-```bash
-npm install
-npm run dev
-```
-
-Откроется на [http://localhost:5173](http://localhost:5173)
-
-```bash
-npm run build    # production-сборка → папка dist/
-npm run preview  # локальный предпросмотр production-сборки
-```
-
-## Деплой
-
-Статичная сборка, готова к деплою на Vercel / Netlify / GitHub Pages одной командой.
